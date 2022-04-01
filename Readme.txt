@@ -1,3 +1,5 @@
+Peguei esse template com intuito de aprender a analisar os melhores métodos utilizados no mercado, alterando o conforme avanço nos estudos de front-end.
+
 Thanks for downloading this template!
 
 Template Name: DevFolio
